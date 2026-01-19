@@ -1,0 +1,5 @@
+{
+  "name": "DevOps Insight Dashboard",
+  "description": "A comprehensive CI/CD monitoring tool for DevOps engineers featuring real-time pipeline status, AI-powered log analysis, security scan results, and code quality metrics.",
+  "requestFramePermissions": []
+}
